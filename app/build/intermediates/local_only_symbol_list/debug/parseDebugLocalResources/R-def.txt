@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable almond
+drawable ic_close
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_menu
+drawable ic_minus
+drawable ic_plus
+drawable img_bacon
+drawable img_burger
+drawable img_cheese
+drawable img_onion
+drawable maca
+drawable melancia
+drawable morango
+drawable prato
+drawable salada
+drawable salada3
+font font_unbounded_bold
+font font_unbounded_light
+font font_unbounded_regular
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MyDelivery
+xml backup_rules
+xml data_extraction_rules
